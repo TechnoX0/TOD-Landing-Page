@@ -25,7 +25,6 @@ body {
 #wrap {
     display: flex;
     flex-direction: column;
-    height: 100vh;
 }
 
 .header-wrap {
@@ -164,7 +163,7 @@ body {
 }
 
 .four-wrap {
-    height: 450px;
+    height: 400px;
 }
 
 .four {
@@ -189,4 +188,13 @@ body {
     color: white;
     padding: 8px 32px;
     cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: #1F2937;
+    height: 80px;
 }

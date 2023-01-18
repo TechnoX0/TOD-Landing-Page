@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+#wrap {
+    display: flex;
+    height: 100vh;
+}
